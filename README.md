@@ -1,6 +1,6 @@
 # Is This Email Safe? 🛡️
 
-A **grandma-friendly Windows desktop app** that checks whether an email looks like spam or phishing — or looks fine. Paste an email in, press one big button, and get a clear answer in plain language.
+A **Windows desktop app** that checks whether an email looks like spam or phishing — or looks fine. Paste an email in, press one big button, and get a clear answer in plain language.
 
 - ✅ Probably safe
 - 🔍 Needs caution
